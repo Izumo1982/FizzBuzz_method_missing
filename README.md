@@ -1,0 +1,2 @@
+# FizzBuzz_method_missing
+method_missingを無理やり使ってFizzBuzz問題に挑戦しました。
